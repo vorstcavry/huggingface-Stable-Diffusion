@@ -69,7 +69,7 @@ Gitclone(r"https://github.com/Mikubill/sd-webui-controlnet",user_home / r"stable
 #Gitclone(r"https://github.com/hnmr293/posex",user_home / r"stable-diffusion-webui" / r"extensions" / r"posex")
 #Gitclone(r"https://github.com/nonnonstop/sd-webui-3d-open-pose-editor",user_home / r"stable-diffusion-webui" / r"extensions" / r"sd-webui-3d-open-pose-editor")
 #Gitclone(r"https://github.com/hnmr293/posex",user_home / r"stable-diffusion-webui" / r"extensions" / r"posex")
-Gitclone(r"https://github.com/EdithForsaken/sd-webui-cloud-inference.git",user_home /r"stable-diffusion-webui" / r"extensions" / r"sd-webui-cloud-inference")
+Gitclone(r"https://github.com/vorstcavry/sd-webui-cloud-inference.git",user_home /r"stable-diffusion-webui" / r"extensions" / r"sd-webui-cloud-inference")
 Gitclone(r"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git" , user_home / r"stable-diffusion-webui" / r"extensions" / r"a1111-sd-webui-tagcomplete")
 #Gitclone(r"https://github.com/camenduru/sd-webui-tunnels",user_home / r"stable-diffusion-webui" / r"extensions" / r"sd-webui-tunnels")
 Gitclone(r"https://github.com/etherealxx/batchlinks-webui",user_home / r"stable-diffusion-webui" / r"extensions" / r"batchlinks-webui")
